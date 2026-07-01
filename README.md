@@ -1,3 +1,3 @@
 # Re-usable react components storage
 
-* `ScrollToTopButton` - component to appear round scroll on top icon  when scrolled down. OnClick smoothly returned to a top
+* `ScrollToTopButton` - when scroll down on page appear "go to top" icon and when clicked on it it will smoothly scroll on top (using tailwindcss)
