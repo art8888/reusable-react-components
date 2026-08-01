@@ -12,6 +12,7 @@
 ### Validations:
 * dateValidations - validations of date
   * `isValidISODate` - validate date against ISO standard to double check is date valid (it also detects if date exist like 2022-02-31)
+  * regex - collection of regex
    
 
 
